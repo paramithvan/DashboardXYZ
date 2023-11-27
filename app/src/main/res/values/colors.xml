@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#F0EFF4</color>
+    <color name="pink">#BF7D8D</color>
+
+    <color name="driver_color">#7D8FBF</color>
+    <color name="dispatcher_color">#BF7D7D</color>
+    <color name="transportlead_color">#BE7DBF</color>
+    <color name="cashier_color">#A2BF7D</color>
+    <color name="superadmin_color">#E2D091</color>
+
+    <color name="active_color">#7DB3BF</color>
+    <color name="non_active_color">#B96C6C</color>
+
+    <color name="recyclerview_color">#FAE7D1</color>
+    <color name="active_rc_color">#6CA91D</color>
+
+
+
+
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TestBlog</string>
+    <string name="select">Select Filter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>t
+    <string name="logout">Logout</string>
+    <string name="tabLayout">Tab Layout</string>
+    <string name="filter">Filter</string>
+    <string name="Active">Active Employee</string>
+    <string name="NonActive">Non-Active Employee</string>
+    <string name="CountNonActive">650</string>
+    <string name="CountActive">750</string>
+
+    <string name="Driver">Driver</string>
+    <string name="Dispatcher">Dispatcher</string>
+    <string name="Cashier">Cashier</string>
+    <string name="Transportlead">Transportlead</string>
+    <string name="Superadmin">Superadmin</string>
+
+    <string name="CountDriver">700</string>
+    <string name="CountDispatcher">650</string>
+    <string name="CountCashier">450</string>
+    <string name="CountTransportlead">600</string>
+    <string name="CountSuperadmin">200</string>
+
+    <string name="photo">photo</string>
+    <string name="ID">ID</string>
+    <string name="titikDua">:</string>
+    <string name="employeeID">XYZ001</string>
+    <string name="Name">Name</string>
+    <string name="EmployeeName">Vania Paramitha</string>]
+    <string name="Role">Role</string>
+    <string name="Division">IT Division</string>
+    <string name="Status">Status</string>
+    <string name="StatusActive">Active</string>
+
+    <string-array name="filterByStatus">
+        <item>Filter by Active User</item>
+        <item>Filter by Non-Active User</item>
+    </string-array>
+
+    <string-array name="filterByRoles">
+        <item>Filter by Driver</item>
+        <item>Filter by Dispatcher</item>
+        <item>Filter by TransportLead</item>
+        <item>Filter by Cashier</item>
+        <item>Filter by Superadmin</item>
+    </string-array>
+
+</resources>
